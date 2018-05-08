@@ -1,4 +1,4 @@
 # Web Dev Task
 
-Hello there :Grinning Face with Smiling Eyes, 
+Hello there,
        This is Murali here
